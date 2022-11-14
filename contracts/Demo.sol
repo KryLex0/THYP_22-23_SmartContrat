@@ -1,10 +1,11 @@
+//SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
 
 contract Demo{
     uint public balance;
 
     //Initialize global variables
-    constructor() public{
+    constructor(){
         balance = 0;
     }
 
