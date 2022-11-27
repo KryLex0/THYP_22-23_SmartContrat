@@ -1,0 +1,11 @@
+Mot: Ticket
+- tio:ticketID
+- hdo:ticketDescription
+- hdo:ticketTitle
+- schema:ticketToken
+- schema:ticketedSeat
+- schema:dateIssued
+- schema:ticketNumber
+- schema:underName
+- cis:hasPriceSpecification
+- tio:validFrom
